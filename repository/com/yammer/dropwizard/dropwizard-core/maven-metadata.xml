@@ -4,9 +4,8 @@
   <artifactId>dropwizard-core</artifactId>
   <versioning>
     <versions>
-      <version>0.6.0-SNAPSHOT</version>
       <version>0.6.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121026163924</lastUpdated>
+    <lastUpdated>20121026182905</lastUpdated>
   </versioning>
 </metadata>

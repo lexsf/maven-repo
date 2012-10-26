@@ -4,9 +4,8 @@
   <artifactId>dropwizard-hibernate</artifactId>
   <versioning>
     <versions>
-      <version>0.6.0-SNAPSHOT</version>
       <version>0.6.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121026164005</lastUpdated>
+    <lastUpdated>20121026182957</lastUpdated>
   </versioning>
 </metadata>

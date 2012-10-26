@@ -4,9 +4,8 @@
   <artifactId>dropwizard-migrations</artifactId>
   <versioning>
     <versions>
-      <version>0.6.0-SNAPSHOT</version>
       <version>0.6.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121026163958</lastUpdated>
+    <lastUpdated>20121026182948</lastUpdated>
   </versioning>
 </metadata>

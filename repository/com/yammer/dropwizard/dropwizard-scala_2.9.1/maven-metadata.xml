@@ -4,9 +4,8 @@
   <artifactId>dropwizard-scala_2.9.1</artifactId>
   <versioning>
     <versions>
-      <version>0.6.0-SNAPSHOT</version>
       <version>0.6.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121026164058</lastUpdated>
+    <lastUpdated>20121026183057</lastUpdated>
   </versioning>
 </metadata>

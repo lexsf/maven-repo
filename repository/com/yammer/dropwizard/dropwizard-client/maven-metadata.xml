@@ -4,9 +4,8 @@
   <artifactId>dropwizard-client</artifactId>
   <versioning>
     <versions>
-      <version>0.6.0-SNAPSHOT</version>
       <version>0.6.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121026163931</lastUpdated>
+    <lastUpdated>20121026182919</lastUpdated>
   </versioning>
 </metadata>
