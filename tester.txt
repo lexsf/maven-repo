@@ -1,0 +1,3 @@
+/Users/Lexi/.m2/repository/com/yammer/dropwizard/dropwizard-core/0.6.0-snapshot/dropwizard-core-0.6.0-snapshot.jar
+
+mvn -DperformRelease=true clean deploy
