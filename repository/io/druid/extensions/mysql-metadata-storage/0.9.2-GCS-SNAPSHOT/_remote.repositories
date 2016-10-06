@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 06 11:24:41 PDT 2016
+mysql-metadata-storage-0.9.2-GCS-SNAPSHOT-javadoc.jar>=
+mysql-metadata-storage-0.9.2-GCS-SNAPSHOT.pom>=
+mysql-metadata-storage-0.9.2-GCS-SNAPSHOT-sources.jar>=
+mysql-metadata-storage-0.9.2-GCS-SNAPSHOT.jar>=

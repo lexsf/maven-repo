@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.druid.extensions.contrib</groupId>
+  <artifactId>druid-cassandra-storage</artifactId>
+  <version>0.9.2-GCS-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20161006182513</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.9.2-GCS-SNAPSHOT</value>
+        <updated>20161006182513</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.9.2-GCS-SNAPSHOT</value>
+        <updated>20161006182513</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.2-GCS-SNAPSHOT</value>
+        <updated>20161006182513</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.2-GCS-SNAPSHOT</value>
+        <updated>20161006182513</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

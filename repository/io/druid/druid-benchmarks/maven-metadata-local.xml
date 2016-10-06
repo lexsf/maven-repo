@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.druid</groupId>
+  <artifactId>druid-benchmarks</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.2-GCS-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161006182457</lastUpdated>
+  </versioning>
+</metadata>

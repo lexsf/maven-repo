@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.druid.extensions</groupId>
+  <artifactId>druid-stats</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.2-GCS-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161006182503</lastUpdated>
+  </versioning>
+</metadata>
