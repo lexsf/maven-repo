@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 11:27:18 PDT 2016
+druid-services-0.9.1.1-gcs.jar>=
+druid-services-0.9.1.1-gcs-sources.jar>=
+druid-services-0.9.1.1-gcs.pom>=
+druid-services-0.9.1.1-gcs-javadoc.jar>=
