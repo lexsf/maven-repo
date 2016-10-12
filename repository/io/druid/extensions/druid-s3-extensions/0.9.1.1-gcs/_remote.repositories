@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 14:52:28 PDT 2016
+druid-s3-extensions-0.9.1.1-gcs.pom>=
+druid-s3-extensions-0.9.1.1-gcs-sources.jar>=
+druid-s3-extensions-0.9.1.1-gcs-javadoc.jar>=
+druid-s3-extensions-0.9.1.1-gcs.jar>=

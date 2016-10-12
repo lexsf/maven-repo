@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 14:53:38 PDT 2016
+graphite-emitter-0.9.1.1-gcs.jar>=
+graphite-emitter-0.9.1.1-gcs-javadoc.jar>=
+graphite-emitter-0.9.1.1-gcs.pom>=
+graphite-emitter-0.9.1.1-gcs-sources.jar>=

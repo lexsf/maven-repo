@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 14:51:57 PDT 2016
+druid-indexing-hadoop-0.9.1.1-gcs-sources.jar>=
+druid-indexing-hadoop-0.9.1.1-gcs.jar>=
+druid-indexing-hadoop-0.9.1.1-gcs-javadoc.jar>=
+druid-indexing-hadoop-0.9.1.1-gcs.pom>=

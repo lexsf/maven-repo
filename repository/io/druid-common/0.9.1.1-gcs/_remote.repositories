@@ -1,7 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Oct 12 11:26:28 PDT 2016
-druid-common-0.9.1.1-gcs.jar>=
-druid-common-0.9.1.1-gcs-sources.jar>=
-druid-common-0.9.1.1-gcs-tests.jar>=
-druid-common-0.9.1.1-gcs.pom>=
-druid-common-0.9.1.1-gcs-javadoc.jar>=

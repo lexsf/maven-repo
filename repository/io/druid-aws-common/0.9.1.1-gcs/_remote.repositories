@@ -1,6 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Oct 12 11:26:42 PDT 2016
-druid-aws-common-0.9.1.1-gcs-javadoc.jar>=
-druid-aws-common-0.9.1.1-gcs.jar>=
-druid-aws-common-0.9.1.1-gcs-sources.jar>=
-druid-aws-common-0.9.1.1-gcs.pom>=

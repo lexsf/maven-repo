@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 14:53:22 PDT 2016
+postgresql-metadata-storage-0.9.1.1-gcs.jar>=
+postgresql-metadata-storage-0.9.1.1-gcs-sources.jar>=
+postgresql-metadata-storage-0.9.1.1-gcs.pom>=
+postgresql-metadata-storage-0.9.1.1-gcs-javadoc.jar>=

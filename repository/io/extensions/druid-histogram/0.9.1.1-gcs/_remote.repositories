@@ -1,6 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Oct 12 11:27:24 PDT 2016
-druid-histogram-0.9.1.1-gcs.pom>=
-druid-histogram-0.9.1.1-gcs-sources.jar>=
-druid-histogram-0.9.1.1-gcs-javadoc.jar>=
-druid-histogram-0.9.1.1-gcs.jar>=
