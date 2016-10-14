@@ -5,7 +5,8 @@
   <versioning>
     <versions>
       <version>0.9.2-GCS-SNAPSHOT</version>
+      <version>0.9.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161006182503</lastUpdated>
+    <lastUpdated>20161014231719</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 14 16:16:10 PDT 2016
+druid-indexing-service-0.9.3-SNAPSHOT-sources.jar>=
+druid-indexing-service-0.9.3-SNAPSHOT.jar>=
+druid-indexing-service-0.9.3-SNAPSHOT-javadoc.jar>=
+druid-indexing-service-0.9.3-SNAPSHOT-tests.jar>=
+druid-indexing-service-0.9.3-SNAPSHOT.pom>=

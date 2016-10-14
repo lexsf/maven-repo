@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 14 16:15:40 PDT 2016
+druid-server-0.9.3-SNAPSHOT-tests.jar>=
+druid-server-0.9.3-SNAPSHOT.pom>=
+druid-server-0.9.3-SNAPSHOT-javadoc.jar>=
+druid-server-0.9.3-SNAPSHOT-sources.jar>=
+druid-server-0.9.3-SNAPSHOT.jar>=

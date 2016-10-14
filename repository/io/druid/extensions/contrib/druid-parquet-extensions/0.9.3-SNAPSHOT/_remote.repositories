@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 14 16:17:53 PDT 2016
+druid-parquet-extensions-0.9.3-SNAPSHOT.jar>=
+druid-parquet-extensions-0.9.3-SNAPSHOT.pom>=
+druid-parquet-extensions-0.9.3-SNAPSHOT-sources.jar>=
+druid-parquet-extensions-0.9.3-SNAPSHOT-javadoc.jar>=
